@@ -13,7 +13,7 @@
         "python-strings-introduction",
         "python-indexing",
         "python-slicing",
-        "python-strings-concatenation"
+        "python-concatenation"
     ],
     "related": [
         "sample-solution-python-string-operations"
